@@ -1,0 +1,14 @@
+Manifest-Version: 1.0
+Implementation-Title: Services - Users
+Implementation-Version: 13.0.0-202101272034330307-20fb9275
+Built-By: 
+Specification-Title: Services - Users
+Implementation-Vendor-Id: com.dremio.services
+Extension-Name: com.dremio
+Created-By: Apache Maven 3.6.3
+Build-Jdk: 1.8.0_242
+Specification-Version: 13.0
+Implementation-URL: https://github.com/dremio/dremio-oss/dremio-services
+ -parent/dremio-services-users
+url: http://www.dremio.com
+

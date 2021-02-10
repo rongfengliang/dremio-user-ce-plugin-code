@@ -1,0 +1,15 @@
+JarIndex-Version: 1.0
+
+dremio-services-users-13.0.0-202101272034330307-20fb9275.jar
+META-INF
+META-INF/maven
+META-INF/maven/com.dremio.services
+META-INF/maven/com.dremio.services/dremio-services-users
+com
+com/dremio
+com/dremio/service
+com/dremio/service/users
+com/dremio/service/users/proto
+git.properties
+sabot-module.conf
+
